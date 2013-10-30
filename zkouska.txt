@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+Naždau, neser mì!
+
+mas spatne hacky :P
+=======
+Naï¿½dau, neser mï¿½!
+
+mas spatne hacky :P
+
+ok, nazdar, naser si ;)
+>>>>>>> df1a80303b10ab3dde4880cf963694a27e8622d1
